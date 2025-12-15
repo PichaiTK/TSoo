@@ -1,0 +1,15 @@
+client/src/
+  App.js
+  index.js
+  context/
+    AuthContext.js
+    CartContext.js
+  components/
+    Topbar.js
+    Sidebar.js
+    NotificationPanel.js
+  pages/
+    Login.js
+    Analytics.js
+    BackofficeProducts.js
+    ...
