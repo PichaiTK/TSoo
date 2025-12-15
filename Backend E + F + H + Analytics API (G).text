@@ -1,0 +1,24 @@
+server/
+  server.js
+  config/db.js
+  models/
+    User.js
+    Product.js
+    Order.js
+    Notification.js
+  routes/
+    authRoutes.js
+    productRoutes.js
+    orderRoutes.js
+    notificationRoutes.js
+    analyticsRoutes.js
+  controllers/
+    authController.js
+    productController.js
+    orderController.js
+    notificationController.js
+    analyticsController.js
+  middleware/
+    authMiddleware.js
+  services/
+    analyticsService.js
