@@ -5,7 +5,7 @@
 
 ------------------------------------------------------------
 
-`markdown
+# markdown
 
 AERDME Omnichannel Platform
 
@@ -53,7 +53,7 @@ AERDME is a fully integrated omnichannel platform combining POS, Online Shop, CM
 
 📁 System Structure (Overview)
 
-`
+
 AERDME/
   ├── Frontend (HTML+CSS+JS)
   ├── Core Engines
@@ -63,7 +63,7 @@ AERDME/
   │     ├── Analytics Engine
   │     └── User/Role Engine
   └── LICENSE
-`
+
 
 ---
 
@@ -86,7 +86,7 @@ AERDME Project Owner
 
 ------------------------------------------------------------
 
-`text
+#text
 AERDME LICENSE v1.0
 Custom Proprietary Software License
 Copyright © 2025 Tack
@@ -136,7 +136,7 @@ By installing or using the Software, the Licensee agrees to all terms of this li
 
 ------------------------------------------------------------
 
-`markdown
+# markdown
 
 AERDME Omnichannel Platform
 
@@ -184,7 +184,7 @@ AERDME is an enterprise‑grade omnichannel platform designed to unify physical 
 
 ------------------------------------------------------------
 
-`markdown
+# markdown
 
 AERDME — Investor Pitch Summary
 
@@ -240,7 +240,7 @@ To become the leading omnichannel operating system for modern retail.
 
 ------------------------------------------------------------
 
-`markdown
+# markdown
 
 AERDME Brand Identity Guide
 
