@@ -54,8 +54,8 @@ AERDME is a fully integrated omnichannel platform combining POS, Online Shop, CM
 
 📁 System Structure (Overview)
 
+# AERDME
 
-AERDME/
   ├── Frontend (HTML+CSS+JS)
   ├── Core Engines
   │     ├── Cart Engine
@@ -87,7 +87,7 @@ AERDME Project Owner
 
 ------------------------------------------------------------
 
-#text
+# text
 AERDME LICENSE v1.0
 Custom Proprietary Software License
 Copyright © 2025 Tack
