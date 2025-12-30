@@ -1,3 +1,4 @@
+<img width="1009" height="629" alt="4476" src="https://github.com/user-attachments/assets/3a8c64d1-3b65-4a05-bd8b-d3cfe9d90995" />
 ✅ ✅ ✅ AERDME — COMPLETE DOCUMENT PACKAGE (ALL‑IN‑ONE FILE)
 ------------------------------------------------------------
 
